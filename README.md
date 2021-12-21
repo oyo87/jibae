@@ -1,4 +1,4 @@
-[![jibae's 42 stats](https://badge42.herokuapp.com/api/stats/jibae)](https://github.com/JaeSeoKim/kipark)
+[![jibae's 42 stats](https://badge42.herokuapp.com/api/stats/jibae)](https://github.com/oyo87)
 
 <!--
 **oyo87/jibae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
