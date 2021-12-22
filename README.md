@@ -1,7 +1,7 @@
-[![jibae's 42 stats](https://badge42.herokuapp.com/api/stats/jibae)](https://github.com/oyo87)
+[![jibae's 42 stats](https://badge42.herokuapp.com/api/stats/jibae)](https://github.com/oyo87/42_cursus)
 
 <!--
-**oyo87/jibae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**oyo87/oyo87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
